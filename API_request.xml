@@ -9,10 +9,10 @@
                     <LocationRef>
                         <StopPointRef>8591335</StopPointRef>
                     </LocationRef>
-                    <DepArrTime>2024-02-16T20:14:25</DepArrTime>
+                    <DepArrTime></DepArrTime>
                 </Location>
                 <Params>
-                    <NumberOfResults>1</NumberOfResults>
+                    <NumberOfResults>4</NumberOfResults>
                     <StopEventType>departure</StopEventType>
                     <IncludePreviousCalls>true</IncludePreviousCalls>
                     <IncludeOnwardCalls>true</IncludeOnwardCalls>
